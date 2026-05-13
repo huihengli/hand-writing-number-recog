@@ -171,8 +171,6 @@ plt.show()
 
 import tkinter as tk
 from PIL import Image, ImageDraw, ImageOps
-import torchvision.transforms as transforms
-import torch
 
 # Tkinter窗口类
 class DigitRecognizerApp:
